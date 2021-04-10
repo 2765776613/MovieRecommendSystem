@@ -19,7 +19,7 @@
   + spark streaming
   + zookeeper
   + kafka
-  + flume：日志收集
+  + flume
   + redis
   + MongoDB
   + elasticsearch
